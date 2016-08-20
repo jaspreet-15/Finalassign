@@ -1,0 +1,85 @@
+{
+       "coord":{
+       "lon":-0.13,
+       "lat":51.51
+},
+       "weather":[
+{
+       "id":500,
+       "main":"Rain",
+       "description":"light rain",
+       "icon":"10d"
+}],
+       "base":"stations",
+       "main":
+{
+       "temp":288.3,
+       "pressure":1005.6,
+       "humidity":88,
+       "temp_min":287.59,
+       "temp_max":289.45
+},
+       "wind":
+{
+       "speed":5.81,"deg":217.505
+},
+       "rain":
+{
+       "3h":0.13
+},
+       "clouds":
+{
+       "all":44
+},
+       "dt":1471672929,
+       "sys":
+{
+       "type":3,"id":1451597784,"message":0.0258,"country":"GB","sunrise":1471668893,"sunset":1471720289
+},
+       "id":2643743,"name":"London","cod":200
+}
+
+{
+ "coord":
+ {
+   "lon":-77.04,"lat":38.9
+ },
+ "weather":[
+   {
+     "id":804,
+     "main":"Clouds",
+     "description":"overcast clouds",
+     "icon":"04n"
+     }],
+     "base":"stations",
+     "main":
+     {
+       "temp":293.62,
+       "pressure":1013,
+       "humidity":86,
+       "temp_min":292.59,
+       "temp_max":295.37
+     },
+       "wind":
+       {
+         "speed":1.66,
+         "deg":214.505
+       },
+         "rain":{},
+         "clouds":{
+           "all":88
+         },
+         "dt":1471673586,
+         "sys":
+         {
+           "type":3,
+           "id":9426,
+           "message":0.0209,
+           "country":"US",
+           "sunrise":1471688818,
+           "sunset":1471737301
+           },
+           "id":4140963,
+           "name":"Washington, D. C.",
+           "cod":200
+         }
